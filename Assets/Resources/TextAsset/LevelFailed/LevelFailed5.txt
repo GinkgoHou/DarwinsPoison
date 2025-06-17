@@ -1,0 +1,2 @@
+<#background=(BlackBackground,fadein)>你果断按下了你一直留有的按钮
+除实验数据外，一切都消失于世，以及你的才华和年轻的生命
